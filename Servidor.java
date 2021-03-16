@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.border.LineBorder;
-
+	
 
 public class Servidor extends JFrame{
 	
@@ -34,7 +34,7 @@ public class Servidor extends JFrame{
 		this.setResizable(false);
 		this.getContentPane().setBackground(new Color(217,237,214));
 		//Titulos
-		JLabel lbNombre = new JLabel("Milton Eduardo Barroso Ramírez. A01634505.");
+		JLabel lbNombre = new JLabel("Milton");
 		lbNombre.setBounds(10, -12, 300, 50);
 		lbNombre.setFont(new Font("Arial",Font.ITALIC,12));
 		this.add(lbNombre);
