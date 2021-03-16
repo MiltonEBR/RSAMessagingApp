@@ -12,3 +12,6 @@ Once both clients have stablished a connection, the public RSA keys will be inte
 It uses random q and p values between 127 and 500 in order to keep a quick interchange of information.
 
 (You can see in the console the encrypted data sent and the values obtained after decrypting).
+
+
+![Program Screen Shot](https://github.com/MiltonEBR/RSAMessagingApp/blob/main/RSAChat.png)
